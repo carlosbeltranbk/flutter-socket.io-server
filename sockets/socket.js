@@ -10,7 +10,8 @@ bands.addBand( new Band( 'Ariana Grande' ) );
 bands.addBand( new Band( 'Héroes del Silencio' ) );
 bands.addBand( new Band( 'Metallica' ) );
 bands.addBand( new Band( 'The Weeknd' ) );
-bands.addBand( new Band( 'Luis Miguel' ) );
+bands.addBand( new Band( 'Harry Styles' ) );
+bands.addBand( new Band( 'Paramore' ) );
 
 //Mensajes de sockets
 io.on('connection', client => {
